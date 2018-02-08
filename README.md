@@ -1,6 +1,13 @@
-# vue-pwa
 
-> A Vue.js project
+
+Vue-pwa로 만든 전광판 서비스입니다.
+
+https://showerbugs.github.io/neonsign
+
+모바일에 다운로드 방법 
+
+크롬앱으로 해당 주소에 들어간 후 메뉴 > 홈 화면에 추가 
+두 번 이상 재 방문시 자동으로 install alert이 뜹니다.
 
 ## Build Setup
 
@@ -24,4 +31,3 @@ npm run unit
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
